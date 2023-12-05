@@ -1,0 +1,17 @@
+﻿<Page x:Class="facebook.adminpage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:facebook"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="adminpage">
+
+    <Grid Background="White">
+        <Button Click="search_button" Style="{StaticResource buttonstyle}" Content="search" HorizontalAlignment="Center" Margin="0,89,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Height="114" Width="232">   
+        </Button>
+        <Button Click="delete_button" Style="{StaticResource buttonstyle}" Content="delete" HorizontalAlignment="Center" Margin="0,271,0,0" VerticalAlignment="Top" Height="103" Width="230"/>
+
+    </Grid>
+</Page>

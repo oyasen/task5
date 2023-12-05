@@ -1,0 +1,70 @@
+E:\school things\visual\PYTHON BLAYD\facebook\obj\Debug\facebook.csproj.AssemblyReference.cache
+E:\school things\visual\PYTHON BLAYD\facebook\obj\Debug\facebook.csproj.SuggestedBindingRedirects.cache
+E:\school things\visual\PYTHON BLAYD\facebook\obj\Debug\forgetpass.g.cs
+E:\school things\visual\PYTHON BLAYD\facebook\obj\Debug\MainWindow.g.cs
+E:\school things\visual\PYTHON BLAYD\facebook\obj\Debug\profile.g.cs
+E:\school things\visual\PYTHON BLAYD\facebook\obj\Debug\signin.g.cs
+E:\school things\visual\PYTHON BLAYD\facebook\obj\Debug\signup.g.cs
+E:\school things\visual\PYTHON BLAYD\facebook\obj\Debug\App.g.cs
+E:\school things\visual\PYTHON BLAYD\facebook\obj\Debug\facebook_Content.g.cs
+E:\school things\visual\PYTHON BLAYD\facebook\obj\Debug\facebook_MarkupCompile.cache
+E:\school things\visual\PYTHON BLAYD\facebook\obj\Debug\facebook_MarkupCompile.lref
+E:\school things\visual\PYTHON BLAYD\facebook\bin\Debug\facebook.exe.config
+E:\school things\visual\PYTHON BLAYD\facebook\bin\Debug\facebook.exe
+E:\school things\visual\PYTHON BLAYD\facebook\bin\Debug\facebook.pdb
+E:\school things\visual\PYTHON BLAYD\facebook\bin\Debug\EntityFramework.dll
+E:\school things\visual\PYTHON BLAYD\facebook\bin\Debug\EntityFramework.SqlServer.dll
+E:\school things\visual\PYTHON BLAYD\facebook\bin\Debug\EntityFramework.xml
+E:\school things\visual\PYTHON BLAYD\facebook\bin\Debug\EntityFramework.SqlServer.xml
+E:\school things\visual\PYTHON BLAYD\facebook\obj\Debug\App.baml
+E:\school things\visual\PYTHON BLAYD\facebook\obj\Debug\forgetpass.baml
+E:\school things\visual\PYTHON BLAYD\facebook\obj\Debug\MainWindow.baml
+E:\school things\visual\PYTHON BLAYD\facebook\obj\Debug\profile.baml
+E:\school things\visual\PYTHON BLAYD\facebook\obj\Debug\signin.baml
+E:\school things\visual\PYTHON BLAYD\facebook\obj\Debug\signup.baml
+E:\school things\visual\PYTHON BLAYD\facebook\obj\Debug\facebook.g.resources
+E:\school things\visual\PYTHON BLAYD\facebook\obj\Debug\facebook.Properties.Resources.resources
+E:\school things\visual\PYTHON BLAYD\facebook\obj\Debug\facebook.csproj.GenerateResource.cache
+E:\school things\visual\PYTHON BLAYD\facebook\obj\Debug\facebook.csproj.CoreCompileInputs.cache
+E:\school things\visual\PYTHON BLAYD\facebook\obj\Debug\facebook.csproj.CopyComplete
+E:\school things\visual\PYTHON BLAYD\facebook\obj\Debug\facebook.exe
+E:\school things\visual\PYTHON BLAYD\facebook\obj\Debug\facebook.pdb
+E:\school things\visual\PYTHON BLAYD\yasen osama 0522020 w4\bin\Debug\facebook.exe.config
+E:\school things\visual\PYTHON BLAYD\yasen osama 0522020 w4\bin\Debug\facebook.exe
+E:\school things\visual\PYTHON BLAYD\yasen osama 0522020 w4\bin\Debug\facebook.pdb
+E:\school things\visual\PYTHON BLAYD\yasen osama 0522020 w4\bin\Debug\EntityFramework.dll
+E:\school things\visual\PYTHON BLAYD\yasen osama 0522020 w4\bin\Debug\EntityFramework.SqlServer.dll
+E:\school things\visual\PYTHON BLAYD\yasen osama 0522020 w4\bin\Debug\EntityFramework.xml
+E:\school things\visual\PYTHON BLAYD\yasen osama 0522020 w4\bin\Debug\EntityFramework.SqlServer.xml
+E:\school things\visual\PYTHON BLAYD\yasen osama 0522020 w4\obj\Debug\facebook.csproj.AssemblyReference.cache
+E:\school things\visual\PYTHON BLAYD\yasen osama 0522020 w4\obj\Debug\facebook.csproj.SuggestedBindingRedirects.cache
+E:\school things\visual\PYTHON BLAYD\yasen osama 0522020 w4\obj\Debug\admin.g.cs
+E:\school things\visual\PYTHON BLAYD\yasen osama 0522020 w4\obj\Debug\adminpage.g.cs
+E:\school things\visual\PYTHON BLAYD\yasen osama 0522020 w4\obj\Debug\delete.g.cs
+E:\school things\visual\PYTHON BLAYD\yasen osama 0522020 w4\obj\Debug\forgetpass.g.cs
+E:\school things\visual\PYTHON BLAYD\yasen osama 0522020 w4\obj\Debug\MainWindow.g.cs
+E:\school things\visual\PYTHON BLAYD\yasen osama 0522020 w4\obj\Debug\profile.g.cs
+E:\school things\visual\PYTHON BLAYD\yasen osama 0522020 w4\obj\Debug\search.g.cs
+E:\school things\visual\PYTHON BLAYD\yasen osama 0522020 w4\obj\Debug\signin.g.cs
+E:\school things\visual\PYTHON BLAYD\yasen osama 0522020 w4\obj\Debug\signup.g.cs
+E:\school things\visual\PYTHON BLAYD\yasen osama 0522020 w4\obj\Debug\App.g.cs
+E:\school things\visual\PYTHON BLAYD\yasen osama 0522020 w4\obj\Debug\facebook_Content.g.cs
+E:\school things\visual\PYTHON BLAYD\yasen osama 0522020 w4\obj\Debug\facebook_MarkupCompile.cache
+E:\school things\visual\PYTHON BLAYD\yasen osama 0522020 w4\obj\Debug\facebook_MarkupCompile.lref
+E:\school things\visual\PYTHON BLAYD\yasen osama 0522020 w4\obj\Debug\App.baml
+E:\school things\visual\PYTHON BLAYD\yasen osama 0522020 w4\obj\Debug\forgetpass.baml
+E:\school things\visual\PYTHON BLAYD\yasen osama 0522020 w4\obj\Debug\MainWindow.baml
+E:\school things\visual\PYTHON BLAYD\yasen osama 0522020 w4\obj\Debug\profile.baml
+E:\school things\visual\PYTHON BLAYD\yasen osama 0522020 w4\obj\Debug\signin.baml
+E:\school things\visual\PYTHON BLAYD\yasen osama 0522020 w4\obj\Debug\signup.baml
+E:\school things\visual\PYTHON BLAYD\yasen osama 0522020 w4\obj\Debug\admin.baml
+E:\school things\visual\PYTHON BLAYD\yasen osama 0522020 w4\obj\Debug\adminpage.baml
+E:\school things\visual\PYTHON BLAYD\yasen osama 0522020 w4\obj\Debug\delete.baml
+E:\school things\visual\PYTHON BLAYD\yasen osama 0522020 w4\obj\Debug\search.baml
+E:\school things\visual\PYTHON BLAYD\yasen osama 0522020 w4\obj\Debug\facebook.g.resources
+E:\school things\visual\PYTHON BLAYD\yasen osama 0522020 w4\obj\Debug\facebook.Properties.Resources.resources
+E:\school things\visual\PYTHON BLAYD\yasen osama 0522020 w4\obj\Debug\facebook.csproj.GenerateResource.cache
+E:\school things\visual\PYTHON BLAYD\yasen osama 0522020 w4\obj\Debug\facebook.csproj.CoreCompileInputs.cache
+E:\school things\visual\PYTHON BLAYD\yasen osama 0522020 w4\obj\Debug\facebook.csproj.CopyComplete
+E:\school things\visual\PYTHON BLAYD\yasen osama 0522020 w4\obj\Debug\facebook.exe
+E:\school things\visual\PYTHON BLAYD\yasen osama 0522020 w4\obj\Debug\facebook.pdb

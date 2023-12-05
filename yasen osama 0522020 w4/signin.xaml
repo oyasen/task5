@@ -1,0 +1,31 @@
+﻿<Page x:Class="facebook.signin"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:facebook"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="signin">
+
+    <Grid Style="{StaticResource gridstyle}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="73*"/>
+            <RowDefinition Height="81*"/>
+            <RowDefinition Height="79*"/>
+            <RowDefinition Height="95*"/>
+            <RowDefinition Height="122*"/>
+        </Grid.RowDefinitions>
+        <Label Background="#FFD2D2D2" Content="Login Form" FontSize="30" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" Height="58" Width="294" />
+        <Label Content="UserName:" Style="{StaticResource labelstyle}" HorizontalAlignment="Left" Margin="131,32,0,0" VerticalAlignment="Top" Grid.Row="1"/>
+        <Label Content="Password:" Style="{StaticResource labelstyle}" HorizontalAlignment="Left" Margin="131,26,0,0" VerticalAlignment="Top" Grid.Row="2"/>
+        <TextBox x:Name="user_t" Style="{StaticResource textbox}" TextWrapping="Wrap" Margin="280,32,0,0" Width="250" Height="40" VerticalAlignment="Top" HorizontalAlignment="Left" Grid.Row="1" />
+        <TextBox x:Name="password_t" Style="{StaticResource textbox}" TextWrapping="Wrap" Margin="280,24,0,0" Height="40" VerticalAlignment="Top" HorizontalAlignment="Left" Width="250" Grid.Row="2" />
+        <Button x:Name="sign_in" Style="{StaticResource buttonstyle}" Content="sign in" HorizontalAlignment="Left" Margin="683,15,0,0" VerticalAlignment="Top" Click="sign_in_Click" Grid.Row="4"/>
+        <Button x:Name="sign_up" Style="{StaticResource buttonstyle}" Content="sign up" HorizontalAlignment="Left" Margin="427,0,0,0" VerticalAlignment="Center" Click="sign_up_Click" Grid.Row="3"/>
+        <Button x:Name="forget_pass" Style="{StaticResource buttonstyle}" Content="forget pass" HorizontalAlignment="Left" Margin="283,15,0,0" VerticalAlignment="Top" Click="forget_pass_Click" Grid.Row="4"/>
+        <Label Style="{StaticResource labelstyle}" Content="Don't have an account?" HorizontalAlignment="Left" Margin="131,36,0,0" VerticalAlignment="Top" Grid.Row="3"/>
+        <Button Content="Admin" Style="{StaticResource buttonstyle}" HorizontalAlignment="Left" Margin="648,0,0,0" VerticalAlignment="Center" Click="Button_Click"/>
+
+    </Grid>
+</Page>
